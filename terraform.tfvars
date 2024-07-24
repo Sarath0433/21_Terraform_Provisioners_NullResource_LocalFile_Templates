@@ -1,0 +1,8 @@
+vpc_name            = "DevOpsB29TFROM"
+vpc_cidr            = "10.29.0.0/16"
+public_subnet1_cidr = "10.29.1.0/24"
+public_subnet2_cidr = "10.29.2.0/24"
+public_subnet3_cidr = "10.29.3.0/24"
+imagename           = "ami-0149b2da6ceec4bb0"
+instance_type       = "t2.micro"
+key_name            = "DeleteLater"
